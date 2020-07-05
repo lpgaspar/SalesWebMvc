@@ -1,0 +1,12 @@
+IActionResult: 
+	interface (tipo genérico) para o retorno de todas as ações
+	tem vários subtipos de retorno específicos (return + Ctrl + espaço para visualizar todos os métodos disponíveis):
+		ViewResult
+		PartialViewResult
+		ContentResult
+		RedirectResult
+		RedirectToRouteResult		
+		JsonResult
+		FileResult
+		HttpNotFoundResult
+		EmptyResult
